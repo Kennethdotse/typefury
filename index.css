@@ -1,0 +1,23 @@
+.highlight {
+	background-color: #d5d28a;
+}
+
+.error {
+	background-color: lightcoral;
+	border-color: red;
+}
+#timer{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	margin-left: auto;
+	margin-right: auto;
+	font-weight: 600;
+	font-size: x-large;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#clock{
+	margin-left: auto;
+	margin-right: auto;
+}
+
